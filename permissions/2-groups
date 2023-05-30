@@ -1,2 +1,2 @@
-#!/bash/bash
-./print_groups.sh
+#!/bin/bash
+groups
